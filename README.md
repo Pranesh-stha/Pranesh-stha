@@ -48,7 +48,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" align="middle" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" align="middle" />
+    <img src="https://devicon-website.vercel.app/api/c/line.svg" height="40" alt="C logo" align="middle" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" alt="C++ logo" align="middle" />
     <img width="12" />
@@ -78,7 +78,7 @@
   <h4 align="center">Backend:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" align="middle" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" align="middle" />
+    <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="40" alt="Express.js logo" align="middle" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" align="middle" />
     <img width="12" />
@@ -93,14 +93,14 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server (MSSQL) logo" align="middle" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-plain.svg" height="40" alt="Supabase logo" align="middle" />
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="Supabase logo" align="middle" />
   </h4>
   <h4 align="center">DevOps & Hosting:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" align="middle" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="Amazon Web Services (AWS) logo" align="middle" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel logo" align="middle" />
+    <img src="https://cdn.brandfetch.io/idDpCfN4VD/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1759982735448" height="27" alt="Vercel logo" align="middle" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions logo" align="middle" />
     <img width="12" />
@@ -110,16 +110,18 @@
     <img width="12" />
     <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu logo" align="middle" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash logo" align="middle" />
+    <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" height="40" alt="Bash logo" align="middle" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" align="middle" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-logo-icon-svg-download-png-2945093.png?f=webp&w=256" height="40" alt="PowerShell logo" align="middle" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="40" alt="SSH (Secure Shell) logo" align="middle" />
+    <img width="12" />
+    <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png?w=32&h=32&fit=min&auto=format" height="40" alt="render logo" align="middle" />
   </h4>
   <h4 align="center">Developer Tools:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" align="middle" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" align="middle" />
+    <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" height="40" alt="GitHub logo" align="middle" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm (Node Package Manager) logo" align="middle" />
     <img width="12" />
@@ -148,6 +150,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original-wordmark.svg" height="40" alt="Devicon logo" align="middle" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="Kaggle logo" align="middle" />
+    <img width="12" />
+    <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF" height="40" alt="markdown logo" align="middle"></img>
   </h4>
   <h4 align="center">Design & Productivity:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" align="middle" />
