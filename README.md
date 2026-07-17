@@ -167,26 +167,5 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranesh-stha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranesh-stha/Pranesh-stha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranesh-stha/Pranesh-stha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graphh" src="https://raw.githubusercontent.com/Pranesh-stha/Pranesh-stha/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-stha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
